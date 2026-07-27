@@ -2,12 +2,12 @@
 
 ## LSPosed
 
-Download here: <https://github.com/LSPosed/LSPosed/releases>
+Download: <https://lsposed.zip>
+
+Changelog: <https://lsposed.zip/changelog.md>
+
+Bugreport: mail to [bug.lsposed.org](mailto:report@bug.lsposed.org)
 
 ## Xposed Module Repository
 
-Go to here: <https://modules.lsposed.org>
-
-## Shamiko
-
-Download here: <https://github.com/LSPosed/LSPosed.github.io/releases>
+Webpage: <https://modules.lsposed.org>
