@@ -6,7 +6,7 @@ Download: <https://lsposed.zip>
 
 Changelog: <https://lsposed.zip/changelog.md>
 
-Bugreport: mail to [bug.lsposed.org](mailto:report@bug.lsposed.org)
+Bugreport: mail to [report@bug.lsposed.org](mailto:report@bug.lsposed.org)
 
 ## Xposed Module Repository
 
